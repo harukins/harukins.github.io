@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+> **WARNING**: This website is still under construction. Thanks for your patience!
+
 Welcome to Haruki Nishimura's website! I am a Ph.D. student in 
 [Stanford Multi-Robot Systems Lab](https://msl.stanford.edu/), advised by Prof.
 [Mac Schwager](https://web.stanford.edu/~schwager/).
