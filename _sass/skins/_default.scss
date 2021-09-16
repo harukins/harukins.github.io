@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Default skin
+   ========================================================================== */
+
+/* Colors */
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
+
+$primary-color              : #7a8288;
+
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+
+$footer-background-color    : $lighter-gray;
+$footer-border-top          : 1px solid $light-gray;
