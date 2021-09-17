@@ -41,12 +41,15 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
-             
-        {% if page.citation and page.paperurl %}
-          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+
+        {% if page.citation and page.paperurl and page.publisherurl and page.codeurl%}
+          <p class="page__content">{{ page.citation }}<br><br><a href="{{ page.paperurl }}">[Link to PDF]</a><br><a href="{{ page.publisherurl }}">[Link to Publisher Site]</a><br><a href="{{ page.codeurl }}">[Link to Code]</a></p>
+        {% elsif page.citation and page.paperurl and page.publisherurl %}
+          <p class="page__content">{{ page.citation }}<br><br><a href="{{ page.paperurl }}">[Link to PDF]</a><br><a href="{{ page.publisherurl }}">[Link to Publisher Site]</a></p>
+        {% elsif page.citation and page.paperurl%}
+          <p class="page__content">{{ page.citation }}<br><br><a href="{{ page.paperurl }}">[Link to PDF]</a></p>
         {% elsif page.citation %}
-          <p>{{ page.citation }} </p>
+          <p class="page__content">{{ page.citation }} </p>
         {% endif %}
     
         </header>

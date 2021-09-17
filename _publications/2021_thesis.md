@@ -5,11 +5,9 @@ permalink: /publication/2021_thesis
 venue: 'Ph.D. Dissertation, Stanford University'
 date: 2021-08-21
 citation: '<b>Haruki Nishimura</b>'
+paperurl: 'https://stacks.stanford.edu/file/druid:jp145pv0596/phd_thesis_submission_nishimura_08172021-augmented.pdf'
+publisherurl: 'https://searchworks.stanford.edu/view/13968839'
 ---
-
-[[Link to PDF]](https://stacks.stanford.edu/file/druid:jp145pv0596/phd_thesis_submission_nishimura_08172021-augmented.pdf)
-<br>
-[[Link to Publisher Site]](https://searchworks.stanford.edu/view/13968839)
 
 
 ## Short Abstract
