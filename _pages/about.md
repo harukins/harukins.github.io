@@ -16,7 +16,7 @@ I am passionate about making mobility systems safer and more reliable in the era
 At Stanford, I develop advanced trajectory planning algorithms for mobile robots that must interactively operate without
 failure under perceptual, dynamic, and model uncertainty. Those algorithms leverage tools from numerical optimization, 
 optimal decision/control theory, statistical inference, and machine/reinforcement learning. 
-This [TechXplore Article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
+This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
 a nice introduction to get a feel for the kind of research that I do.
 
 I received my M.S. degree from Stanford University in 2017 and B.Eng. from The University of Tokyo in 2015, both in 
