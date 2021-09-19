@@ -29,7 +29,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 ## Recent News
 ### August 13, 2021: Paper published in IJRR
 Our [journal submission]({% link _publications/2021_ijrr.md %}) on fast, approximate belief space planning in continuous
-spaces have been published in the International Journal of Robotics Research. Check out my recent 
+spaces has been published in the International Journal of Robotics Research. Check out my recent 
 [tweet](https://twitter.com/imp_aa/status/1435480980760846341) for a quick summary.
 
 ### July 22, 2021: Doctoral thesis defense
