@@ -118,7 +118,7 @@ Skills
 ======
 * **Software**: MATLAB, Simulink, Autodesk Inventor, Autodesk 3ds Max Design
 * **Hardware**: PIC Microcontrollers, Atmel AVR, Odroid
-* **Programming languages**: Julia, Python, C++, PIC Assembly Language
+* **Programming Languages**: Julia, Python, C++, PIC Assembly Language
 * **Libraries and Tools**: Pytorch, Docker, ROS, Gazebo, AirSim, Open AI Gym
 * **Soft Skills**: Science and engineering lesson design based on learning sciences
   
