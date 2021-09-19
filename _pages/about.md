@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to Haruki Nishimura's website! I am a Ph.D. student at Stanford University, currently in my final year, 
-advised by Prof.[Mac Schwager](https://web.stanford.edu/~schwager/) in 
+advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
 I am passionate about making mobility systems safer and more reliable in the upcoming era of automation.
 I develop advanced trajectory planning algorithms for mobile robots that must interactively operate without
@@ -26,7 +26,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 
 ![M42 Nebula](/images/stars_2.jpg)
 
-## News
+## Recent News
 ### August 13, 2021: Paper published in IJRR
 Our [journal submission]({% link _publications/2021_ijrr.md %}) on fast, approximate belief space planning in continuous
 spaces have been published in The International Journal of Robotics Research. Check out my recent 
