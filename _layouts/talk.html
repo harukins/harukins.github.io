@@ -41,6 +41,13 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.slideurl and page.eventurl %}
+          <p class="page__content"><a href="{{ page.slideurl }}">[Link to Slides]</a><br><a href="{{ page.eventurl }}">[Link to Event]</a></p>
+        {% elsif page.eventurl %}
+          <p class="page__content"><a href="{{ page.eventurl }}">[Link to Event]</a></p>
+        {% elsif page.slideurl%}
+          <p class="page__content"><a href="{{ page.slideurl }}">[Link to Slides]</a></p>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

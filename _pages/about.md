@@ -20,7 +20,7 @@ This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-r
 a nice introduction to get a feel for the kind of research that I do.
 
 I received my M.S. degree from Stanford University in 2017 and B.Eng. from The University of Tokyo in 2015, both in 
-Aeronautics and Astronautics. While at UTokyo, I was researching feature-based aerial SLAM algorithms for lifelogging 
+Aeronautics and Astronautics. While at UTokyo, I was researching feature-based aerial SLAM algorithms for life-logging 
 under the supervision of Prof. [Takehisa Yairi](https://www.rcast.u-tokyo.ac.jp/en/research/people/staff-yairi_takehisa.html)
 at the [Research Center for Advanced Science and Technology](https://www.rcast.u-tokyo.ac.jp/en/).
 

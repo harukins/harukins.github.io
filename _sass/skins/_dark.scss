@@ -7,16 +7,16 @@ $body-color                 : #252a34;
 $background-color           : #252a34;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
-$text-color                 : #eaeaea;
+$text-color                 : #d9d6d0;
 $border-color               : mix(#fff, $background-color, 20%);
 
 $primary-color              : #00adb5;
 
-$link-color                 : mix($primary-color, $text-color, 40%);
+$link-color                 : mix($primary-color, $text-color, 45%);
 $link-color-hover           : mix(#fff, $link-color, 25%);
 $link-color-visited         : mix(#000, $link-color, 25%);
 $masthead-link-color        : $text-color;
-$masthead-link-color-hover  : mix(#000, $text-color, 20%);
+$masthead-link-color-hover  : mix(#fff, $text-color, 80%);
 
 $footer-background-color    : mix(#000, $background-color, 30%);
 $footer-border-top          : mix(#fff, $background-color, 20%);
