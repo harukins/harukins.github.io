@@ -38,4 +38,4 @@ I have successfully defended my Ph.D. dissertation. The virtual presentation dur
 
 ### July 14, 2021: Poster presentation at RSS 2021 Workshop (Virtual)
 I gave a virtual poster presentation at [RSS 2021 Workshop on Perception and Control for Autonomous Navigation in 
-Crowded, Dynamic Environments](https://negarmehr.github.io/RSS2021Workshop/) on our recent [RA-L paper]({% link _publications/2021_ral.md %}).
+Crowded, Dynamic Environments](https://negarmehr.github.io/RSS2021Workshop/), on our recent [RA-L paper]({% link _publications/2021_ral.md %}).
