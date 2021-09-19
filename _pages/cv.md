@@ -14,7 +14,7 @@ The PDF version is coming soon.
 Education
 ======
 * **Ph.D. in Aeronautics and Astronautics, Stanford University, CA, USA, September 2021**
-  * Graduate Research Assistant, [Multi-Robot Systems Lab](https://msl.stanford.edu)
+  * Graduate Research Assistant, [Multi-Robot Systems Lab](https://msl.stanford.edu), January 2017 – September 2021
 * **M.S. in Aeronautics and Astronautics, Stanford University, CA, USA, June 2017**
   * GPA: 4.04/4.00
 * **B.Eng. in Aeronautics and Astronautics, The University of Tokyo, Tokyo, Japan, March 2015**
@@ -125,7 +125,7 @@ Skills
 Teaching
 ======
 * **Creative Engineering Project I・III, The University of Tokyo, April 2015 – July 2015**
-  * Teaching Assistant for LETS: Learn Engineering with Tokyo University Students
+  * Teaching Assistant for LETS: Learn Engineering with Tokyo University Students (Instructor: Prof. Shinji Suzuki)
     * Helped teams of undergrads and grad students design and deliver science lessons to children in public elementary
       school in local Tokyo area.
     * Gave feedback to teams based on effectiveness of lecture and experimentation design proposals as measured by 
@@ -139,8 +139,8 @@ Service and Leadership
   * Project Member, April 2013 – July 2014
 * **Consortium for Renovating Education of the Future, The University of Tokyo, Tokyo, Japan**
   * Science Workshop Planner, March 2014
-* **Non-Governmental Organization JEN, Miyagi, Japan** 
-  * Volunteer, 2011 Great Tohoku Earthquake Reconstruction Assistance Program, November 2011 – October 2013
 * **Star Watching Class in Oshika, Miyagi, Japan**
   * Project Leader, September 2013 – December 2013
+* **Non-Governmental Organization JEN, Miyagi, Japan** 
+  * Volunteer, 2011 Great Tohoku Earthquake Reconstruction Assistance Program, November 2011 – October 2013
   
