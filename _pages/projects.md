@@ -18,7 +18,7 @@ proceedings.
 ## Human Trajectory Prediction in Socially Interacting Crowds
 * Project for *CS 230: Deep Learning*, Stanford University, Fall 2018-19
   * Instructor: Prof. [Andrew Ng](https://hai.stanford.edu/people/andrew-ng)
-* Presented deep convolutional neural network (CNN) approach to predicting mutually-interacting human trajecotries in 
+* Presented deep convolutional neural network (CNN) approach to predicting mutually-interacting human trajectories in 
   dense crowd. [[Link to Project Report]]({% link files/yang_cs230_report.pdf %})
 * Received **CS 230 Fall 2018 Outstanding Poster Award**. [[Link to Poster]]({% link files/yang_cs230_poster.pdf %})
 
@@ -33,7 +33,7 @@ proceedings.
 * Project for *AA 273: State Estimation and Filtering for Aerospace Systems*, Stanford University, Spring 2016-17
   * Instructor: Prof. [Mac Schwager](https://web.stanford.edu/~schwager/)
 * Proposed framework for multi-target tracking that simultaneously estimates unknown goal locations for dynamic 
-  agents (e.g. pedestrians). [[Link to Project Report]]({% link files/nishimura_aa273_report.pdf %})
+  agents, e.g. pedestrians. [[Link to Project Report]]({% link files/nishimura_aa273_report.pdf %})
 
 ## Decentralized Multi-target Search and Coverage Using Hyperparameter Consensus
 * Project for *AA 277: Multi-Robot Control, Communication, and Sensing*, Stanford University, Winter 2015-16
