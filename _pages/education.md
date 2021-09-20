@@ -56,7 +56,7 @@ In December 2013, I volunteered with other members of UTokyo Astronomy Club to o
 [Oshika Family Travel Village Auto Camping Ground](https://www.oshika-campingpark.jp/) in the
 [Oshika Peninsula](https://www.japan.travel/en/uk/inspiration/oshika/) in Miyagi, Japan. 
 The event was intended for children and their parents living in the Peninsula, which is one of the many areas in the Tohoku 
-region that were severely damaged by the Great East Japan Earthquake and the tsunami in March 2011.
+region that were severely hit by the Great East Japan Earthquake and the tsunami in March 2011.
 
 We brought from Tokyo multiple astronomical telescopes to the site to show nebulae and the Solar planets in the winter sky,
 which is indeed one of the clearest and the darkest skies that you could find in the mainland Japan, more than ideal for 
