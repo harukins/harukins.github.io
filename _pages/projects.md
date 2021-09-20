@@ -2,7 +2,7 @@
 layout: "archive"
 permalink: /projects/
 title: "Side Projects"
-author_profile: true
+author_profile: false
 ---
 Here is a collection of small academic projects, primarily for coursework at Stanford University.
 Most are not published elsewhere, although some eventually ended up in referred journals or conference 

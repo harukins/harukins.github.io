@@ -140,8 +140,8 @@ Service and Leadership
   * Project Member, April 2013 – July 2014
 * **Consortium for Renovating Education of the Future, The University of Tokyo, Tokyo, Japan**
   * Science Workshop Planner, March 2014
-* **Star Watching Class in Oshika, Miyagi, Japan**
+* **[Star Watching Class in Oshika]({% link _pages/education.md %}#oshika), Miyagi, Japan**
   * Project Leader, September 2013 – December 2013
 * **[Non-Governmental Organization JEN](https://www.jen-npo.org/en/), Miyagi, Japan** 
-  * Volunteer, 2011 Great Tohoku Earthquake Reconstruction Assistance Program, November 2011 – October 2013
+  * Volunteer, 2011 Great East Japan Earthquake Reconstruction Assistance Program, November 2011 – October 2013
   
