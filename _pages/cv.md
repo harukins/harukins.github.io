@@ -121,6 +121,7 @@ Skills
 * **Programming Languages**: Julia, Python, C++, PIC Assembly Language
 * **Libraries and Tools**: Pytorch, Docker, ROS, Gazebo, AirSim, Open AI Gym
 * **Soft Skills**: Science and engineering lesson design based on learning sciences
+* **Languages**: English (Professional Proficiency, TOEFL iBT 108/120), Japanese (Native)
   
 Teaching
 ======
