@@ -22,9 +22,12 @@ Aeronautics and Astronautics. At UTokyo, I was researching feature-based aerial 
 applications, under the supervision of Prof. [Takehisa Yairi](https://www.rcast.u-tokyo.ac.jp/en/research/people/staff-yairi_takehisa.html)
 at the [Research Center for Advanced Science and Technology](https://www.rcast.u-tokyo.ac.jp/en/).
 
-Apart from research activities, I am passionate about stargazing, traveling, as well as science/engineering education.
+Apart from research activities, I am passionate about stargazing, traveling, as well as 
+[science/engineering education]({% link _pages/education.md %}).
 
-![M42 Nebula](/images/stars_2.jpg)
+<div style="text-align: center; margin-bottom: 20px">
+    <img src="/images/stars_2.jpg" alt="M42 Nebula">
+</div>
 
 ## Recent News
 ### August 13, 2021: Paper published in IJRR

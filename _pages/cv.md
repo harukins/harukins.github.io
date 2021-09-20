@@ -133,14 +133,15 @@ Teaching
 
 Service and Leadership
 ======
-* **Stanford Japanese Association, Stanford University, CA, USA**
+* **[Stanford Japanese Association](https://sja.stanford.edu/eng_index.html), Stanford University, CA, USA**
   * Officer, September 2018 – August 2020
-* **LETS: Learn Engineering with Tokyo University Students, The University of Tokyo, Tokyo, Japan**
+* **[LETS: Learn Engineering with Tokyo University Students]({% link _pages/education.md %}#lets), 
+  The University of Tokyo, Tokyo, Japan**
   * Project Member, April 2013 – July 2014
 * **Consortium for Renovating Education of the Future, The University of Tokyo, Tokyo, Japan**
   * Science Workshop Planner, March 2014
 * **Star Watching Class in Oshika, Miyagi, Japan**
   * Project Leader, September 2013 – December 2013
-* **Non-Governmental Organization JEN, Miyagi, Japan** 
+* **[Non-Governmental Organization JEN](https://www.jen-npo.org/en/), Miyagi, Japan** 
   * Volunteer, 2011 Great Tohoku Earthquake Reconstruction Assistance Program, November 2011 – October 2013
   
