@@ -26,7 +26,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 [science/engineering education]({% link _pages/education.md %}).
 
 <div style="text-align: center; margin-bottom: 20px">
-    <img class="img-responsive" src="/images/stars_2.jpg" alt="M42 Nebula">
+    <img class="img-responsive" src="/images/stars_2.jpg" alt="M42 Nebula" width="100%">
 </div>
 
 ## Recent News

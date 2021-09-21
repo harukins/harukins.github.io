@@ -7,7 +7,7 @@ author_profile: false
 ## LETS: Learn Engineering with Tokyo University Students<a name="lets"></a>
 
 <div style="text-align: center; margin-bottom: 20px">
-    <img class="img-responsive" src="/images/lets_logo_2.jpg" alt="LETS" />
+    <img class="img-responsive" src="/images/lets_logo_2.jpg" alt="LETS" width="100%"/>
 </div>
 
 LETS is a team of science and engineering educators that began as a project-based course officially named Science
@@ -24,8 +24,8 @@ choices, in order to respect pre-existing knowledge of the children and promote 
 I joined LETS in 2013 as a junior student, then served as the TA in the Summer of 2015.
 
 <div>
-    <img class="img-responsive" src="/images/lets_meeting_1.jpg" alt="LETS Meeting 1" style="float:left; padding-left: 30px; margin-bottom: 5px"/>
-    <img class="img-responsive" src="/images/lets_meeting_2.jpg" alt="LETS Meeting 2" style="float:right; padding-right: 30px; margin-bottom: 5px"/>
+    <img class="img-responsive" src="/images/lets_meeting_1.jpg" alt="LETS Meeting 1" width="45%" style="float:left; padding-left: 20px; margin-bottom: 5px"/>
+    <img class="img-responsive" src="/images/lets_meeting_2.jpg" alt="LETS Meeting 2" width="45%" style="float:right; padding-right: 20px; margin-bottom: 5px"/>
     <p style="clear: both;"></p>
 </div>
 
@@ -38,8 +38,8 @@ theirs. Through this experience the students would obtain skills to explain tech
 jargon or intricate equations.
 
 <div style="text-align: center; margin-bottom: 20px">
-    <img class="img-responsive" src="/images/lets_lesson_structures.jpg" alt="LETS lesson on structures" width="700"/>
-    <img class="img-responsive" src="/images/lets_lesson_colors.jpg" alt="LETS lesson on colors" width="700"/>
+    <img class="img-responsive" src="/images/lets_lesson_structures.jpg" alt="LETS lesson on structures" width="90%"/>
+    <img class="img-responsive" src="/images/lets_lesson_colors.jpg" alt="LETS lesson on colors" width="90%"/>
 </div>
 
 Over the years we offered a variety of lessons, whose topics include design of earthquake-resistant structures,
@@ -49,7 +49,7 @@ Although LETS is not offered as a course anymore, we still volunteer to organize
 
 ## Star Watching Class in Oshika<a name="oshika"></a>
 <div style="text-align: center; margin-bottom: 20px">
-    <img class="img-responsive" src="/images/oshika_flyer.jpg" alt="Oshika Star-Watching Class" width="300" style="float:left; margin-right: 20px; margin-top: 20px; margin-bottom: 20px"/>
+    <img class="img-responsive" src="/images/oshika_flyer.jpg" alt="Oshika Star-Watching Class" width="40%" style="float:left; margin-right: 20px; margin-top: 20px; margin-bottom: 20px"/>
 </div>
 
 In December 2013, I volunteered with other members of UTokyo Astronomy Club to organize a stargazing event at 
