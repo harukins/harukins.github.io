@@ -30,6 +30,9 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### September 23, 2021: Graduation
+I have graduated from Stanford University! I will update my contact information after transitioning to a new career.
+
 ### August 13, 2021: Paper published in IJRR
 Our [journal submission]({% link _publications/2021_ijrr.md %}) on fast, approximate belief space planning in continuous
 spaces has been published in the International Journal of Robotics Research. Check out my recent 
