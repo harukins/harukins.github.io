@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Haruki Nishimura's website! I am a Ph.D. student at Stanford University, currently in my final year, 
-advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
+Welcome to Haruki Nishimura's website! I am a Machine Learning Research Scientist at Toyota Research Institute.
+Prior to joining TRI, I was a Ph.D. student at Stanford University, advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
 I am passionate about making mobility systems safer and more reliable in the upcoming era of automation.
-I develop advanced trajectory planning algorithms for mobile robots that must interactively operate without
+I develop advanced trajectory planning and learning algorithms for mobile robots that must interactively operate without
 failure under perceptual, dynamic, and model uncertainty. Those algorithms leverage tools from numerical optimization, 
-optimal decision/control theory, probabilistic inference, and machine/reinforcement learning. 
+optimal decision/control theory, probabilistic inference, and reinforcement learning.
 This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
 a nice introduction to get a feel for the kind of research that I do.
 
@@ -30,6 +30,15 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### September 10, 2022: Paper accepted (oral) at CoRL!
+Our [latest work on risk-aware trajectory forecasting](https://openreview.net/forum?id=z_hPo2Fu9A3) has been accepted
+for an oral presentation at the 2022 Conference on Robot Learning. The acceptance rate for oral presentations was 6.5%.
+An arXiv version will be available soon. We look forward to presenting our work in Auckland, New Zealand in December!
+
+### June 27, 2022: Virtual Presentation at RSS 2022 Workshop
+I gave a short virtual presentation at [RSS 2022 Workshop on Risk-Aware Decision Making](https://sites.google.com/nyu.edu/risk-aware-decision-making),
+on our ongoing work of risk-aware trajectory forecasting.
+
 ### September 23, 2021: Graduation
 I have graduated from Stanford University! I will update my contact information after transitioning to a new career.
 

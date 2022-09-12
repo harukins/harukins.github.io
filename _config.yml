@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Haruki Nishimura"
 title_separator          : "-"
 name                     : &name "Haruki Nishimura"
-description              : &description "Ph.D. Candidate at Stanford University"
+description              : &description "Machine Learning Research Scientist at Toyota Research Institute"
 url                      : "" #https://harukins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harukins/harukins.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Haruki Nishimura"
   avatar           : "bio-photo-haruki.jpg"
-  bio              : "Ph.D. Candidate in <br> Aeronautics and Astronautics, <br> Stanford University"
-  location         : "Stanford, CA, USA"
-  employer         : "Multi-Robot Systems Lab"
+  bio              : "Machine Learning Research Scientist"
+  location         : "Los Altos, CA, USA"
+  employer         : "Toyota Research Institute"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hZOzlzwAAAAJ&hl=en"
-  email            : # "hnishimura [at] stanford.edu"
+  email            : # "haruki.nishimura [at] tri.global"
   researchgate     :
   uri              : # "https://msl.stanford.edu/people/harukinishimura"
   bitbucket        :

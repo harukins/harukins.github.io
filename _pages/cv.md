@@ -24,7 +24,7 @@ Scholarships & Awards
 =====
 * **[Masason Foundation](https://masason-foundation.org/en/) Fellowship, Tokyo, Japan**
   * Associate member, July 2018 – June 2019
-  * Member, July 2019 – March 2022 (expected)
+  * Member, July 2019 – February 2022
 * **[JASSO](https://www.jasso.go.jp/en/index.html) Student Exchange Support Program, Tokyo, Japan**
   * Two-year graduate scholarship for Master's students, September 2015 – June 2017
   * Three-year graduate scholarship for Ph.D. students, September 2017 – August 2020
@@ -32,6 +32,11 @@ Scholarships & Awards
 
 Professional Experience
 ======
+* **[Toyota Research Institute](https://www.tri.global/), CA, USA, November 2021 - Present**
+  * Research Scientist, Machine Learning
+    * Conducting fundamental machine learning research, with focus on prediction and planning in interactive
+      environments.
+  
 * **[Toyota Research Institute](https://www.tri.global/), CA, USA, June 2018 – September 2018**
   * Intern, Object Perception
     * Contributed to offline object tracking pipeline in autonomous driving software for post-processing simulation and 
@@ -111,7 +116,8 @@ Publication Reviewing
   Autonomous Robots
 * **Conferences**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 
   IEEE International Conference on Robotics and Automation (ICRA), IEEE Conference on Decision and Control (CDC),
-  American Control Conference (ACC)
+  American Control Conference (ACC), Conference on Neural Information Processing Systems (NeurIPS),
+  Conference on Robot Learning (CoRL)
 
 
 Skills
