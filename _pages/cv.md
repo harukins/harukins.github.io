@@ -34,7 +34,7 @@ Professional Experience
 ======
 * **[Toyota Research Institute](https://www.tri.global/), CA, USA, November 2021 - Present**
   * Research Scientist, Machine Learning
-    * Conducting fundamental machine learning research, with focus on prediction and planning in interactive
+    * Conducting fundamental machine learning research, with focus on planning and prediction in interactive
       environments.
   
 * **[Toyota Research Institute](https://www.tri.global/), CA, USA, June 2018 – September 2018**

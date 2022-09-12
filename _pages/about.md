@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Haruki Nishimura's website! I am a Machine Learning Research Scientist at Toyota Research Institute.
+Welcome to Haruki Nishimura's website! I am a Machine Learning Research Scientist at [Toyota Research Institute](https://www.tri.global/).
 Prior to joining TRI, I was a Ph.D. student at Stanford University, advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
 I am passionate about making mobility systems safer and more reliable in the upcoming era of automation.
