@@ -35,7 +35,7 @@ Our [latest work on risk-aware trajectory forecasting](https://openreview.net/fo
 for an oral presentation at the 2022 Conference on Robot Learning. The acceptance rate for oral presentations was 6.5%.
 An arXiv version will be available soon. We look forward to presenting our work in Auckland, New Zealand in December!
 
-### June 27, 2022: Virtual Presentation at RSS 2022 Workshop
+### June 27, 2022: Virtual presentation at RSS 2022 workshop
 I gave a short virtual presentation at [RSS 2022 Workshop on Risk-Aware Decision Making](https://sites.google.com/nyu.edu/risk-aware-decision-making),
 on our ongoing work of risk-aware trajectory forecasting.
 
