@@ -33,7 +33,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 ### September 10, 2022: Paper accepted (oral) at CoRL!
 Our [latest work on risk-aware trajectory forecasting](https://openreview.net/forum?id=z_hPo2Fu9A3) has been accepted
 for an oral presentation at the 2022 Conference on Robot Learning. The acceptance rate for oral presentations was 6.5%.
-An arXiv version will be available soon. We look forward to presenting our work in Auckland, New Zealand in December!
+The arXiv version is available [here](https://arxiv.org/abs/2210.01368). We look forward to presenting our work in Auckland, New Zealand in December!
 
 ### June 27, 2022: Virtual presentation at RSS 2022 workshop
 I gave a short virtual presentation at [RSS 2022 Workshop on Risk-Aware Decision Making](https://sites.google.com/nyu.edu/risk-aware-decision-making),
