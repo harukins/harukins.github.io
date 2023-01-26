@@ -10,14 +10,14 @@ redirect_from:
 Welcome to Haruki Nishimura's website! I am a Machine Learning Research Scientist at [Toyota Research Institute](https://www.tri.global/).
 Prior to joining TRI, I was a Ph.D. student at Stanford University, advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
-I am passionate about making mobility systems safer and more reliable in the upcoming era of automation.
-I develop advanced trajectory planning and learning algorithms for mobile robots that must interactively operate without
+I am passionate about making embodied autonomous systems safer and more robust so people can truly trust and rely on them in the AI-assisted society of the near future.
+Specifically, I develop advanced trajectory planning and learning algorithms for autonomous robots that must interactively operate without
 failure under perceptual, dynamic, and model uncertainty. Those algorithms leverage tools from numerical optimization, 
 optimal decision/control theory, probabilistic inference, and reinforcement learning.
 This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
 a nice introduction to get a feel for the kind of research that I do.
 
-I received my M.S. degree from Stanford University in 2017 and B.Eng. from the University of Tokyo in 2015, both in 
+I received my Ph.D. degree and M.S. degree from Stanford University in 2021 and 2017, respectively, and B.Eng. from the University of Tokyo in 2015, all in 
 Aeronautics and Astronautics. At UTokyo, I was researching feature-based aerial SLAM algorithms for life-logging 
 applications, under the supervision of Prof. [Takehisa Yairi](https://www.rcast.u-tokyo.ac.jp/en/research/people/staff-yairi_takehisa.html)
 at the [Research Center for Advanced Science and Technology](https://www.rcast.u-tokyo.ac.jp/en/).
