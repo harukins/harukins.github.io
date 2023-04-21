@@ -30,6 +30,11 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### April 11, 2023: Paper accepted (oral) at L4DC!
+Our latest work entitled [In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States] (https://arxiv.org/abs/2301.12012) 
+has been accepted for an oral presentation at the 5th Annual Learning for Dynamics & Control Conference.
+The acceptance rate for oral presentations was 9.6%. We look forward to presenting our work in Philadelphia, USA in June!
+
 ### September 10, 2022: Paper accepted (oral) at CoRL!
 Our [latest work on risk-aware trajectory forecasting](https://openreview.net/forum?id=z_hPo2Fu9A3) has been accepted
 for an oral presentation at the 2022 Conference on Robot Learning. The acceptance rate for oral presentations was 6.5%.
