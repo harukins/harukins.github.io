@@ -2,7 +2,7 @@
 title: "Risk-Biased Trajectory Forecasting for Safe Human-Robot Interaction"
 collection: talks
 type: "Workshop presentation"
-permalink: /talks/2019_rss_ws
+permalink: /talks/2022_rss_ws
 venue: "Risk Aware Decision Making: From Optimal Control to Reinforcement Learning (RSS 2022 Workshop)"
 date: 2022-06-27
 location: "New York City, NY, USA"
