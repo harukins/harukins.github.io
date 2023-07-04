@@ -31,7 +31,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 
 ## Recent News
 ### June 15, 2023: Received Best Paper Award!
-Our L4DC paper won the <b>Best Paper Award<\b>!
+Our L4DC paper won the <b>Best Paper Award</b>!
 
 ### April 11, 2023: Paper accepted (oral) at L4DC!
 Our latest work entitled [In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States](https://arxiv.org/abs/2301.12012) 
