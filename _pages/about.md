@@ -30,9 +30,12 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### June 15, 2023: Received Best Paper Award!
+Our L4DC paper won the <b>Best Paper Award<\b>!
+
 ### April 11, 2023: Paper accepted (oral) at L4DC!
 Our latest work entitled [In-Distribution Barrier Functions: Self-Supervised Policy Filters that Avoid Out-of-Distribution States](https://arxiv.org/abs/2301.12012) 
-has been accepted for an oral presentation at the 5th Annual Learning for Dynamics & Control Conference.
+has been accepted for an oral presentation at the 5th Annual Learning for Dynamics & Control Conference (L4DC).
 The acceptance rate for oral presentations was 9.6%. We look forward to presenting our work in Philadelphia, USA in June!
 
 ### September 10, 2022: Paper accepted (oral) at CoRL!
