@@ -30,6 +30,9 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### December 11, 2023: Recognized as a Top Reviewer at NeurIPS 2023
+It is such an honor to be recognized as a [Top Reviewer](https://nips.cc/Conferences/2023/ProgramCommittee) at NeurIPS 2023!
+
 ### June 15, 2023: Received Best Paper Award!
 Our L4DC paper won the <b>Best Paper Award</b>!
 
@@ -58,7 +61,3 @@ spaces has been published in the International Journal of Robotics Research. Che
 ### July 22, 2021: Doctoral thesis defense
 I have successfully defended my Ph.D. dissertation. The virtual presentation during the open session is available 
 [here]({% link _talks/2021_defense.md %}).
-
-### July 14, 2021: Poster presentation at RSS 2021 Workshop (Virtual)
-I gave a virtual poster presentation at [RSS 2021 Workshop on Perception and Control for Autonomous Navigation in 
-Crowded, Dynamic Environments](https://negarmehr.github.io/RSS2021Workshop/), on our recent [RA-L paper]({% link _publications/2021_ral.md %}).
