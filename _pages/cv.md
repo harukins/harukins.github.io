@@ -33,8 +33,11 @@ Scholarships & Awards
 Professional Experience
 ======
 * **[Toyota Research Institute](https://www.tri.global/), CA, USA, November 2021 - Present**
-  * Research Scientist, Machine Learning
-    * Conducting fundamental machine learning research, with focus on planning and prediction in interactive
+  * Senior Research Scientist, Robotics (April 2024 - Present)
+    * Performing research on Trustworthy Machine Learning under Uncertainty, with focus on large pre-trained
+      models for safe autonomous robots.
+  * Research Scientist, Machine Learning (November 2021 - April 2024)
+    * Conducted fundamental machine learning research, with focus on planning and prediction in interactive
       environments.
   
 * **[Toyota Research Institute](https://www.tri.global/), CA, USA, June 2018 – September 2018**
@@ -106,7 +109,8 @@ Talks & Presentations
 Press & Media
 ======
 * **[A framework to increase the safety of robots operating in crowded environments](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html)**, 
-  TechXplore, October 2020
+  TechXplore, October 2020.
+* **[Coordinating imitation learning and reinforcement learning based on principles, UCB and TRI provide policy customization technology](https://xtech-nikkei-com.translate.goog/atcl/nxt/mag/rob/18/012600001/00144/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)**, Nikkei Robotics, April 2024. (Original article is in Japanese.)
   
 
 Publication Reviewing
@@ -117,7 +121,8 @@ Publication Reviewing
 * **Conferences**: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 
   IEEE International Conference on Robotics and Automation (ICRA), IEEE Conference on Decision and Control (CDC),
   American Control Conference (ACC), Conference on Neural Information Processing Systems (NeurIPS) (**Top Reviewer**, 2023),
-  Conference on Robot Learning (CoRL), International Conference on Learning Representations (ICLR)
+  Conference on Robot Learning (CoRL), International Conference on Learning Representations (ICLR),
+  International Joint Confrence on Artificial Intelligence (IJCAI)
 
 
 Skills

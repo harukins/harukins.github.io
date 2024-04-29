@@ -7,6 +7,7 @@ date: 2023-12-13
 citation: 'Chenran Li*, Chen Tang*, <b>Haruki Nishimura</b>, Jean Mercat, Masayoshi Tomizuka, Wei Zhan'
 paperurl: 'https://arxiv.org/pdf/2306.09526.pdf'
 publisherurl: 'https://openreview.net/forum?id=LaNeRwDrTk'
+note: 'Featured in <a href="https://xtech-nikkei-com.translate.goog/atcl/nxt/mag/rob/18/012600001/00144/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">Nikkei Robotics</a>.'
 ---
 
 

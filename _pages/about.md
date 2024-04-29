@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Haruki Nishimura's website! I am a Machine Learning Research Scientist at [Toyota Research Institute](https://www.tri.global/).
+Welcome to Haruki Nishimura's website! I am a Senior Research Scientist at [Toyota Research Institute](https://www.tri.global/), focused on Trustworthy Machine Learning under Uncertainty.
 Prior to joining TRI, I was a Ph.D. student at Stanford University, advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
 I am passionate about making embodied autonomous systems safer and more robust so people can truly trust and rely on them in the AI-assisted society of the near future.
-Specifically, I develop advanced trajectory planning and learning algorithms for autonomous robots that must interactively operate without
+Since 2018, I have developed advanced trajectory planning and learning algorithms for autonomous robots that must interactively operate without
 failure under perceptual, dynamic, and model uncertainty. Those algorithms leverage tools from numerical optimization, 
-optimal decision/control theory, probabilistic inference, and reinforcement learning.
+optimal decision/control theory, probabilistic inference, reinforcement learning, and statistics.
 This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
 a nice introduction to get a feel for the kind of research that I do.
 
@@ -30,6 +30,11 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### April 17, 2024: Paper featured in Nikkei Robotics
+Our NeurIPS paper on [Policy Customization](https://sites.google.com/view/residualq-learning) has been featured in the May 2024 release of
+[Nikkei Robotics](https://xtech-nikkei-com.translate.goog/atcl/nxt/mag/rob/18/012600001/00144/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),
+a monthly Japanese magazine on Robotics and AI.
+
 ### December 11, 2023: Recognized as a Top Reviewer at NeurIPS 2023
 It is such an honor to be recognized as a [Top Reviewer](https://nips.cc/Conferences/2023/ProgramCommittee) at NeurIPS 2023!
 
