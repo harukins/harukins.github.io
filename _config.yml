@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Haruki Nishimura"
 title_separator          : "-"
 name                     : &name "Haruki Nishimura"
-description              : &description "Machine Learning Research Scientist at Toyota Research Institute"
+description              : &description "Senior Research Scientist at Toyota Research Institute"
 url                      : "" #https://harukins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harukins/harukins.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Haruki Nishimura"
   avatar           : "bio-photo-haruki.jpg"
-  bio              : "Research Scientist, Machine Learning"
+  bio              : "Senior Research Scientist, Robotics"
   location         : "Los Altos, CA, USA"
   employer         : "Toyota Research Institute"
   pubmed           :
