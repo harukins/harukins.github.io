@@ -122,7 +122,7 @@ Publication Reviewing
   IEEE International Conference on Robotics and Automation (ICRA), IEEE Conference on Decision and Control (CDC),
   American Control Conference (ACC), Conference on Neural Information Processing Systems (NeurIPS) (**Top Reviewer**, 2023),
   Conference on Robot Learning (CoRL), International Conference on Learning Representations (ICLR),
-  International Joint Confrence on Artificial Intelligence (IJCAI)
+  International Joint Confrence on Artificial Intelligence (IJCAI) (Program Committee, 2024), Annual AAAI Conference on Artificial Intelligence (AAAI) (Program Committee, 2025)
 
 
 Skills

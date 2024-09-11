@@ -30,6 +30,9 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### August 19, 2024: Paper accepted into RA-L!
+Our latest work entitled [How Generalizable is My Behavior Cloning Policy? A Statistical Approach to Trustworthy Performance Evaluation](https://arxiv.org/abs/2405.05439) has been accepted into IEEE Robotis and Automation Letters (RA-L)! Check out the [project website](https://tri-ml.github.io/stochastic_verification/) for details.
+
 ### April 17, 2024: Paper featured in Nikkei Robotics
 Our NeurIPS paper on [Policy Customization](https://sites.google.com/view/residualq-learning) has been featured in the May 2024 release of
 [Nikkei Robotics](https://xtech-nikkei-com.translate.goog/atcl/nxt/mag/rob/18/012600001/00144/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),
@@ -63,6 +66,3 @@ Our [journal submission]({% link _publications/2021_ijrr.md %}) on fast, approxi
 spaces has been published in the International Journal of Robotics Research. Check out my recent 
 [tweet](https://twitter.com/imp_aa/status/1435480980760846341) for a quick summary.
 
-### July 22, 2021: Doctoral thesis defense
-I have successfully defended my Ph.D. dissertation. The virtual presentation during the open session is available 
-[here]({% link _talks/2021_defense.md %}).
