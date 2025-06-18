@@ -82,12 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Haruki Nishimura"
-  avatar           : "bio-photo-haruki.jpg"
-  bio              : "Senior Research Scientist, Robotics"
+  avatar           : "bio-photo-haruki-2.jpg"
+  bio              : "Senior Research Scientist, Large Behavior Models"
   location         : "Los Altos, CA, USA"
   employer         : "Toyota Research Institute"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=hZOzlzwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=ybjd-fgAAAAJ&hl=en"
   email            : # "haruki.nishimura [at] tri.global"
   researchgate     :
   uri              : # "https://msl.stanford.edu/people/harukinishimura"

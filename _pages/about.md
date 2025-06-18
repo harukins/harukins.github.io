@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Haruki Nishimura's website! I am a Senior Research Scientist at [Toyota Research Institute](https://www.tri.global/), focused on Trustworthy Machine Learning under Uncertainty.
+Welcome to Haruki Nishimura's website! I am a Senior Research Scientist at [Toyota Research Institute](https://www.tri.global/), focused on Trustworthy Machine Learning for Embodied Systems under Uncertainty.
 Prior to joining TRI, I was a Ph.D. student at Stanford University, advised by Prof. [Mac Schwager](https://web.stanford.edu/~schwager/) in 
 [Multi-Robot Systems Lab](https://msl.stanford.edu/).
 I am passionate about making embodied autonomous systems safer and more robust so people can truly trust and rely on them in the AI-assisted society of the near future.
 Since 2018, I have developed advanced trajectory planning and learning algorithms for autonomous robots that must interactively operate without
 failure under perceptual, dynamic, and model uncertainty. Those algorithms leverage tools from numerical optimization, 
 optimal decision/control theory, probabilistic inference, reinforcement learning, and statistics.
-This [TechXplore article](https://techxplore.com/news/2020-10-framework-safety-robots-crowded-environments.html) can be
-a nice introduction to get a feel for the kind of research that I do.
 
 I received my Ph.D. degree and M.S. degree from Stanford University in 2021 and 2017, respectively, and B.Eng. from the University of Tokyo in 2015, all in 
 Aeronautics and Astronautics. At UTokyo, I was researching feature-based aerial SLAM algorithms for life-logging 
@@ -30,6 +28,12 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
+### April 16, 2025: Guest Lecture at CMU
+I gave a guest lecture in the [Embodied Artificial Intelligence Safety](https://abajcsy.github.io/embodied-ai-safety/) class at CMU Robotics Institute on the effective use of statistical methods for trustworthy policy evaluation. I sincerely thank Prof. Andrea Bajcsy for the kind invitation. 
+
+### April 10, 2025: Two Papers accepted at RSS!
+Two papers entitled [Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optional Stopping](https://www.arxiv.org/abs/2503.10966) and [Can We Detect Failures without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/abs/2503.08558) have been accepted at Robotics: Science and Systems (RSS) 2025. The acceptance rate was 27%. We look forward to presenting our work in Los Angeles, USA in June!
+
 ### August 19, 2024: Paper accepted into RA-L!
 Our latest work entitled [How Generalizable is My Behavior Cloning Policy? A Statistical Approach to Trustworthy Performance Evaluation](https://arxiv.org/abs/2405.05439) has been accepted into IEEE Robotis and Automation Letters (RA-L)! Check out the [project website](https://tri-ml.github.io/stochastic_verification/) for details.
 
