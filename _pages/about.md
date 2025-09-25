@@ -30,7 +30,7 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 ## Recent News
 
 ### September 18, 2025: Two Papers accepted at NeurIPS!
-Two university collaboration papers entitled [STITCH-OPE: Trajectory Stitching with Guided Diffusion for Off-Policy Evaluation](https://www.arxiv.org/abs/2503.10966) and [SAFE: Scalable Failure Estimation for Vision-Language-Action Models](https://arxiv.org/abs/2503.08558) have been accepted at Neural Information Processing Systems (NeurIPS) 2025. STITCH-OPE is going to be presented as a spotlight (acceptance rate: 3.19%) and SAFE is a poster (acceptance rate: 24.52%). We look forward to presenting our work in December!
+Two university collaboration papers entitled [STITCH-OPE: Trajectory Stitching with Guided Diffusion for Off-Policy Evaluation](https://arxiv.org/abs/2505.20781) and [SAFE: Scalable Failure Estimation for Vision-Language-Action Models](https://arxiv.org/abs/2506.09937) have been accepted at Neural Information Processing Systems (NeurIPS) 2025. STITCH-OPE is going to be presented as a spotlight (acceptance rate: 3.19%) and SAFE is a poster (acceptance rate: 24.52%). We look forward to presenting our work in December!
 
 ### August 28, 2025: Seminar at UTokyo
 I gave an invited seminar for the [GVLab Seminar Series](https://www.gvlab.jp/seminar.htm) at the University of Tokyo in Japan.
