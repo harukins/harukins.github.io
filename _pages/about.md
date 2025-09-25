@@ -28,10 +28,27 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 </div>
 
 ## Recent News
-### April 16, 2025: Guest Lecture at CMU
+
+### September 18, 2025: Two Papers accepted at NeurIPS!
+Two university collaboration papers entitled [STITCH-OPE: Trajectory Stitching with Guided Diffusion for Off-Policy Evaluation](https://www.arxiv.org/abs/2503.10966) and [SAFE: Scalable Failure Estimation for Vision-Language-Action Models](https://arxiv.org/abs/2503.08558) have been accepted at Neural Information Processing Systems (NeurIPS) 2025. STITCH-OPE is going to be presented as a spotlight (acceptance rate: 3.19%) and SAFE is a poster (acceptance rate: 24.52%). We look forward to presenting our work in December!
+
+### August 28, 2025: Seminar at UTokyo
+I gave an invited seminar for the [GVLab Seminar Series](https://www.gvlab.jp/seminar.htm) at the University of Tokyo in Japan.
+I sincerely thank Prof. Gentiane Venture for the kind invitation.
+
+### August 1, 2025: Paper accepted at CoRL!
+A university collaboration paper entitled [CUPID: Curating Data your Robot Loves with Influence Functions](https://cupid-curation.github.io/) has been accepte at Conferene on Robot Learning (CoRL) 2025. The acceptance rate was 35.77%. We look forward to presenting in our work in Seoul, South Korea in September!
+
+### June 21, 2025: 1st Workshop on Robot Evaluation at RSS
+With co-organizers from both academia and industry, we held the 1st workshop on [Robot Evaluation for the Real World](https://sites.google.com/stanford.edu/robot-evaluation-rss-2025/home) at RSS 2025. Thank you to those who attended and/or contributed to the workshop on such an important and timely topic!
+
+### June 21, 2025: Workshop talk at RSS
+I gave an invited talk at the [RSS 2025 Workshop on Reliable Robotics: Safety and Security in the Face of Generative AI](https://sites.google.com/view/rss2025-reliable-robotics/home). I sincerely thank the organizers for having me at the workshop. 
+
+### April 16, 2025: Guest lecture at CMU
 I gave a guest lecture in the [Embodied Artificial Intelligence Safety](https://abajcsy.github.io/embodied-ai-safety/) class at CMU Robotics Institute on the effective use of statistical methods for trustworthy policy evaluation. I sincerely thank Prof. Andrea Bajcsy for the kind invitation. 
 
-### April 10, 2025: Two Papers accepted at RSS!
+### April 10, 2025: Two papers accepted at RSS!
 Two papers entitled [Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optional Stopping](https://www.arxiv.org/abs/2503.10966) and [Can We Detect Failures without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/abs/2503.08558) have been accepted at Robotics: Science and Systems (RSS) 2025. The acceptance rate was 27%. We look forward to presenting our work in Los Angeles, USA in June!
 
 ### August 19, 2024: Paper accepted into RA-L!
