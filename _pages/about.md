@@ -29,6 +29,9 @@ Apart from research activities, I am passionate about stargazing, traveling, as 
 
 ## Recent News
 
+### September 27, 2025: Workshop talk at CoRL
+I gave an invited talk at the [2nd Workshop on Safe and Robust Robot Learning for Operation in the Real World (SAFE-ROL)](https://sites.google.com/view/corl-2025-safe-rol-workshop). I sincerely thank the organizers for the opportunity to speak at the workshop.
+
 ### September 18, 2025: Two Papers accepted at NeurIPS!
 Two university collaboration papers entitled [STITCH-OPE: Trajectory Stitching with Guided Diffusion for Off-Policy Evaluation](https://arxiv.org/abs/2505.20781) and [SAFE: Scalable Failure Estimation for Vision-Language-Action Models](https://arxiv.org/abs/2506.09937) have been accepted at Neural Information Processing Systems (NeurIPS) 2025. STITCH-OPE is going to be presented as a spotlight (acceptance rate: 3.19%) and SAFE is a poster (acceptance rate: 24.52%). We look forward to presenting our work in December!
 
@@ -37,7 +40,7 @@ I gave an invited seminar for the [GVLab Seminar Series](https://www.gvlab.jp/se
 I sincerely thank Prof. Gentiane Venture for the kind invitation.
 
 ### August 1, 2025: Paper accepted at CoRL!
-A university collaboration paper entitled [CUPID: Curating Data your Robot Loves with Influence Functions](https://cupid-curation.github.io/) has been accepte at Conferene on Robot Learning (CoRL) 2025. The acceptance rate was 35.77%. We look forward to presenting in our work in Seoul, South Korea in September!
+A university collaboration paper entitled [CUPID: Curating Data your Robot Loves with Influence Functions](https://cupid-curation.github.io/) has been accepted at Conferene on Robot Learning (CoRL) 2025. The acceptance rate was 35.77%. We look forward to presenting in our work in Seoul, South Korea in September!
 
 ### June 21, 2025: 1st Workshop on Robot Evaluation at RSS
 With co-organizers from both academia and industry, we held the 1st workshop on [Robot Evaluation for the Real World](https://sites.google.com/stanford.edu/robot-evaluation-rss-2025/home) at RSS 2025. Thank you to those who attended and/or contributed to the workshop on such an important and timely topic!
@@ -75,6 +78,8 @@ Our [latest work on risk-aware trajectory forecasting](https://openreview.net/fo
 for an oral presentation at the 2022 Conference on Robot Learning. The acceptance rate for oral presentations was 6.5%.
 The arXiv version is available [here](https://arxiv.org/abs/2210.01368). We look forward to presenting our work in Auckland, New Zealand in December!
 
+<!--
+
 ### June 27, 2022: Virtual presentation at RSS 2022 workshop
 I gave a short virtual presentation at [RSS 2022 Workshop on Risk-Aware Decision Making](https://sites.google.com/nyu.edu/risk-aware-decision-making),
 on our ongoing work of risk-aware trajectory forecasting.
@@ -87,3 +92,4 @@ Our [journal submission]({% link _publications/2021_ijrr.md %}) on fast, approxi
 spaces has been published in the International Journal of Robotics Research. Check out my recent 
 [tweet](https://twitter.com/imp_aa/status/1435480980760846341) for a quick summary.
 
+-->
